@@ -1,12 +1,10 @@
-
-
-import React from 'react'
+import React from 'react';
+import Resturant from "./component/Basics/Resturant";
 
 const App = () => {
   return (
     <div>
-      Arafath Islam Boss
-      
+      <Resturant />
     </div>
   )
 }
